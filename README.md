@@ -1,3 +1,6 @@
+# Goal: Sync a YAML file in obsidian with espanso's config file making changes easy to manage and sync between devices
+
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
